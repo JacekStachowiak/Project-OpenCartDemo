@@ -8,7 +8,7 @@ from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 
 
-class Test_002_Login:
+class TC_LF_001:
     
     lg = LogGen.loggen()
     
@@ -19,10 +19,10 @@ class Test_002_Login:
     username = rc.getUseremail()
     password = rc.getPassword()
  
-    @pytest.mark.sanity
+    @pytest.mark.login
     def test_account_login(self, setup):
         
-        self.lg.info('*** test_002_account_login --> START ***')
+        self.lg.info('*** TC_LF_001_account_login --> START ***')
         self.driver = setup
         self.driver.get(self.baseUrl)
         self.hp = HomePage(self.driver)
@@ -37,7 +37,7 @@ class Test_002_Login:
         self.lp.login(self.username, self.password)
                 
         msg2 = self.lp.isMyAccountPage()
-        self.lg.info('*** test_001_account_login --> END ***')
+        self.lg.info('*** TC_LF_001_account_login --> END ***')
         
         if msg2 == True:
             self.lg.info('Assert is OK')

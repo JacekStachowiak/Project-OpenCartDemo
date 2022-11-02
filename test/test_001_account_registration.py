@@ -15,7 +15,7 @@ class Test_001_AccountReg:
     baseURL = ReadConfig.getApplicationURL()
     lg.info('*** Lauching page ***') 
     
-    @pytest.mark.regression
+    @pytest.mark.registration
     def test_account_reg(self, setup):
         
         self.driver = setup

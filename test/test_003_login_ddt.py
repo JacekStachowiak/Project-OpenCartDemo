@@ -22,7 +22,7 @@ class Test_003_Login_ddt:
     #path = 'H:\\Klon\\Project OpenCartDemo\\test\\test data\\Opencart_LoginData.xlsx'
     path = os.path.abspath(os.curdir)+'\\testdata\\Opencart_LoginData.xlsx'
     
-    @pytest.mark.sanity
+    @pytest.mark.login
     def test_login_ddt(self, setup):
         
         self.lg.info('*** Test_003_account_login_ddt --> START ***')

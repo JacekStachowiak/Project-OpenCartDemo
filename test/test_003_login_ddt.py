@@ -11,18 +11,18 @@ import time
 import pytest
 
 
-class Test_003_Login_ddt:
+class Test_TC_LF_003_ddt:
     
     lg = LogGen.loggen()
     
-    lg.info('*** Lauching page test_003 ***')
+    lg.info('*** Lauching page Test_TC_LF_003_ddt ***')
     
     rc = ReadConfig()
     baseUrl = rc.getApplicationURL()
     #path = 'H:\\Klon\\Project OpenCartDemo\\test\\test data\\Opencart_LoginData.xlsx'
     path = os.path.abspath(os.curdir)+'\\testdata\\Opencart_LoginData.xlsx'
     
-    @pytest.mark.login
+    @pytest.mark.log
     def test_login_ddt(self, setup):
         
         self.lg.info('*** Test_003_account_login_ddt --> START ***')

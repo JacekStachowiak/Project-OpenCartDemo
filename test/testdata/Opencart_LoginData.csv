@@ -1,0 +1,19 @@
+username, password, res;;;
+;;;
+;;;
+namecourse,cardnumber,carddata,cardcode,countryname;;;
+JavaScript for beginners,1234 2345 3456 4567,10/24,345,Poland;;;
+Complete Test Automation Bundle,1234 2345 3456 4567,10/24,345,Poland;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;username;password;res
+;nospam@opencart.com.pl;demo;Valid
+;nospam@opencart.com.pl;test;Invalid
+;pavan@gmail.com;demo;Invalid
+;pavan@gmail.com;test;Invalid

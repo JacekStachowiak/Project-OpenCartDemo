@@ -1,0 +1,65 @@
+1667228970039	geckodriver	INFO	Listening on 127.0.0.1:65520
+1667228973048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--remote-debugging-port" "65521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jacek\\AppData\\Local\\Temp\\rust_mozprofile3Id3Xi"
+1667228974073	Marionette	INFO	Marionette enabled
+1667228974080	Marionette	INFO	Listening on port 65528
+Read port: 65528
+WebDriver BiDi listening on ws://127.0.0.1:65521
+1667228974224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacek\\AppData\\Local\\Temp\\rust_mozprofile3Id3Xi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65521/devtools/browser/476fc9f6-64bd-4a0a-8468-f1129729309f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com."
+1667228994418	Marionette	INFO	Stopped listening on port 65528
+1667235494174	geckodriver	INFO	Listening on 127.0.0.1:58565
+1667235497245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--remote-debugging-port" "58566" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jacek\\AppData\\Local\\Temp\\rust_mozprofilewPwiwO"
+1667235497876	Marionette	INFO	Marionette enabled
+1667235497883	Marionette	INFO	Listening on port 58573
+Read port: 58573
+WebDriver BiDi listening on ws://127.0.0.1:58566
+1667235498017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacek\\AppData\\Local\\Temp\\rust_mozprofilewPwiwO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58566/devtools/browser/38162a5f-cc41-4a64-b851-78b4207e6ba0
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com.pl."
+1667235535535	Marionette	INFO	Stopped listening on port 58573
+1667240962555	geckodriver	INFO	Listening on 127.0.0.1:55126
+1667240965719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--remote-debugging-port" "55127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jacek\\AppData\\Local\\Temp\\rust_mozprofileF9dvp5"
+1667240966334	Marionette	INFO	Marionette enabled
+1667240966341	Marionette	INFO	Listening on port 55135
+Read port: 55135
+WebDriver BiDi listening on ws://127.0.0.1:55127
+1667240966481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacek\\AppData\\Local\\Temp\\rust_mozprofileF9dvp5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55127/devtools/browser/16e0f092-767d-4708-876d-02ce2a20bc5c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com.pl."
+1667241004079	Marionette	INFO	Stopped listening on port 55135
+1667241090423	geckodriver	INFO	Listening on 127.0.0.1:55253
+1667241093535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--remote-debugging-port" "55254" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jacek\\AppData\\Local\\Temp\\rust_mozprofilec1c4rh"
+1667241094137	Marionette	INFO	Marionette enabled
+1667241094143	Marionette	INFO	Listening on port 55261
+Read port: 55261
+WebDriver BiDi listening on ws://127.0.0.1:55254
+1667241094278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacek\\AppData\\Local\\Temp\\rust_mozprofilec1c4rh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55254/devtools/browser/14d902aa-2f94-4d5a-a9dc-9181691a57f3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com.pl."
+1667241133888	Marionette	INFO	Stopped listening on port 55261
+1667383901982	geckodriver	INFO	Listening on 127.0.0.1:50610
+1667383905010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--remote-debugging-port" "50611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jacek\\AppData\\Local\\Temp\\rust_mozprofileb11ZOv"
+1667383905599	Marionette	INFO	Marionette enabled
+1667383905606	Marionette	INFO	Listening on port 50618
+Read port: 50618
+WebDriver BiDi listening on ws://127.0.0.1:50611
+1667383905746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacek\\AppData\\Local\\Temp\\rust_mozprofileb11ZOv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50611/devtools/browser/df60318c-e07a-4aae-bc1f-6ff1c8b8a7e0
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com.pl."
+1667383997240	Marionette	INFO	Stopped listening on port 50618

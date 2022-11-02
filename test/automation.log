@@ -1,0 +1,19 @@
+2022/11/02 13:45 PM: INFO: *** Lauching page test_003 ***
+2022/11/02 13:45 PM: INFO: *** Test_003_account_login_ddt --> START ***
+2022/11/02 13:45 PM: INFO: *** Clicking MyAccount --> Login test_003***
+2022/11/02 13:45 PM: INFO: *** Clicking Login test_003***
+2022/11/02 13:45 PM: INFO: *** Loging  test_003 ***
+2022/11/02 13:45 PM: INFO: *** test_003_account_login --> END ***
+2022/11/02 13:45 PM: INFO: *** Clicking MyAccount --> Login test_003***
+2022/11/02 13:45 PM: INFO: *** Clicking Login test_003***
+2022/11/02 13:45 PM: INFO: *** Loging  test_003 ***
+2022/11/02 13:45 PM: INFO: *** test_003_account_login --> END ***
+2022/11/02 13:45 PM: INFO: *** Clicking MyAccount --> Login test_003***
+2022/11/02 13:45 PM: INFO: *** Clicking Login test_003***
+2022/11/02 13:45 PM: INFO: *** Loging  test_003 ***
+2022/11/02 13:46 PM: INFO: *** test_003_account_login --> END ***
+2022/11/02 13:46 PM: INFO: *** Clicking MyAccount --> Login test_003***
+2022/11/02 13:46 PM: INFO: *** Clicking Login test_003***
+2022/11/02 13:46 PM: INFO: *** Loging  test_003 ***
+2022/11/02 13:46 PM: INFO: *** test_003_account_login --> END ***
+2022/11/02 13:46 PM: INFO: ********** End test_003_login_ddt ************* 

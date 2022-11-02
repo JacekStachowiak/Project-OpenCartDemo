@@ -1,0 +1,13 @@
+pytest
+selenium
+webdriver-manager
+pytest-html
+pytest-xdist
+openpyxl
+allure-pytest
+webdriverdownloader
+pytest-ordering
+pytest-metadata
+pytest-dependency
+py-parser
+requests

@@ -1,7 +1,7 @@
-2022/11/02 22:59 PM: INFO: *** Lauching page class TC_LF_006 ***
-2022/11/02 22:59 PM: INFO: *** TC_LF_006_account_login --> START ***
-2022/11/02 22:59 PM: INFO: *** Clicking MyAccount --> Login ***
-2022/11/02 22:59 PM: INFO: *** Clicking Login ***
-2022/11/02 22:59 PM: INFO: *** Loging ***
-2022/11/02 22:59 PM: INFO: *** TC_LF_006_forg --> END ***
-2022/11/02 22:59 PM: INFO: Assert is OK
+2022/11/03 20:26 PM: INFO: *** Lauching page class TC_LF_006 ***
+2022/11/03 20:26 PM: INFO: *** TC_LF_006_account_login --> START ***
+2022/11/03 20:26 PM: INFO: *** Clicking MyAccount --> Login ***
+2022/11/03 20:26 PM: INFO: *** Clicking Login ***
+2022/11/03 20:26 PM: INFO: *** Loging ***
+2022/11/03 20:26 PM: INFO: *** TC_LF_006_forg --> END ***
+2022/11/03 20:26 PM: INFO: Assert is OK
